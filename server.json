@@ -1,0 +1,154 @@
+{
+    "products": [
+        {
+            "uuid": "aa2b9981-e91b-4e3c-a019-4017f72a308d",
+            "name": "Expresso Tradicional",
+            "description": "O tradicional café feito com água quente e grãos moídos",
+            "price": 9.90,
+            "pills": [
+                "tradicional"
+            ],
+            "img": "expresso"
+        },
+        {
+            "uuid": "deb7cf66-fcac-4d61-8ca4-bb5dae05a5fd",
+            "name": "Expresso Americano",
+            "description": "Expresso diluído, menos intenso que o tradicional",
+            "price": 9.90,
+            "pills": [
+                "tradicional"
+            ],
+            "img": "americano"
+        },
+        {
+            "uuid": "8c592071-c461-47b5-b19f-0e0b0aa849e6",
+            "name": "Expresso Cremoso",
+            "description": "Café expresso tradicional com espuma cremosa",
+            "price": 9.90,
+            "pills": [
+                "tradicional"
+            ],
+            "img": "cremoso"
+        },
+        {
+            "uuid": "75dcaf8a-9531-4bf8-abb7-5fa6a5295c1c",
+            "name": "Expresso Gelado",
+            "description": "Bebida preparada com café expresso e cubos de gelo",
+            "price": 9.90,
+            "pills": [
+                "tradicional",
+                "gelado"
+            ],
+            "img": "gelado"
+        },
+        {
+            "uuid": "8bcef1e4-8981-46a5-8f15-9fa818b93d4d",
+            "name": "Café com Leite",
+            "description": "Meio a meio de expresso tradicional com leite vaporizado",
+            "price": 9.90,
+            "pills": [
+                "tradicional",
+                "com leite"
+            ],
+            "img": "cafeComLeite"
+        },
+        {
+            "uuid": "ddb4d5e6-39d7-466a-a0cb-92fe95915fb4",
+            "name": "Latte",
+            "description": "Uma dose de café expresso com o dobro de leite e espuma cremosa",
+            "price": 9.90,
+            "pills": [
+                "tradicional",
+                "com leite"
+            ],
+            "img": "latte"
+        },
+        {
+            "uuid": "663dd73b-83ac-448e-aa70-48cd0b2a0e53",
+            "name": "Capuccino",
+            "description": "Bebida com canela feita de doses iguais de café, leite e espuma",
+            "price": 9.90,
+            "pills": [
+                "tradicional",
+                "com leite"
+            ],
+            "img": "capuccino"
+        },
+        {
+            "uuid": "4979d6fe-2346-431c-b400-c0d21531188d",
+            "name": "Macchiato",
+            "description": "Café expresso misturado com um pouco de leite quente e espuma",
+            "price": 9.90,
+            "pills": [
+                "tradicional",
+                "com leite"
+            ],
+            "img": "macchiato"
+        },
+        {
+            "uuid": "0c71cb76-45df-4479-a8c7-9d2ade22ad17",
+            "name": "Mocaccino",
+            "description": "Café expresso com calda de chocolate, pouco leite e espuma",
+            "price": 9.90,
+            "pills": [
+                "tradicional",
+                "com leite"
+            ],
+            "img": "mocaccino"
+        },
+        {
+            "uuid": "391c2a39-f020-4d43-89d2-86652108bc34",
+            "name": "Chocolate Quente",
+            "description": "Bebida feita com chocolate dissolvido no leite quente e café",
+            "price": 9.90,
+            "pills": [
+                "especial",
+                "com leite"
+            ],
+            "img": "chocolateQuente"
+        },
+        {
+            "uuid": "2c756031-2d55-4b4f-ad99-47cc38593624",
+            "name": "Cubano",
+            "description": "Drink gelado de café expresso com rum, creme de leite e hortelã",
+            "price": 9.90,
+            "pills": [
+                "especial",
+                "alcoólico",
+                "gelado"
+            ],
+            "img": "cubano"
+        },
+        {
+            "uuid": "c6f32ac9-ea20-4c47-ad2d-870d4ddca1d5",
+            "name": "Havaiano",
+            "description": "Bebida adocicada preparada com café e leite de coco",
+            "price": 9.90,
+            "pills": [
+                "especial"
+            ],
+            "img": "havaiano"
+        },
+        {
+            "uuid": "a8022795-3998-46e4-9a51-d3d2c55553fd",
+            "name": "Árabe",
+            "description": "Bebida preparada com grãos de café árabe e especiarias",
+            "price": 9.90,
+            "pills": [
+                "especial"
+            ],
+            "img": "arabe"
+        },
+        {
+            "uuid": "df34db8c-1ee3-446d-8495-94e42b53c8d5",
+            "name": "Irlandês",
+            "description": "Bebida a base de café, uísque irlandês, açúcar e chantilly",
+            "price": 9.90,
+            "pills": [
+                "especial",
+                "alcoólico"
+            ],
+            "img": "irlandes"
+        }
+    ]
+}
